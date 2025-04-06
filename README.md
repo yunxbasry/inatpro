@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>İnat TV Canlı Maç İzle - Fenerbahçe vs. Trabzonspor - İnatpro</title>
+    <h1>İnat TV Canlı Maç İzle - Fenerbahçe vs. Trabzonspor - İnatpro<h1>
     <meta name="description" content="İnat TV üzerinden Fenerbahçe ve Trabzonspor arasındaki heyecan verici maçı canlı olarak izleyin. Canlı maç izle ve HD yayın keyfini yaşayın.">
     <h2>Fenerbahçe vs. Trabzonspor Canlı Maç İzle</h2>
     <p class="description">İnat TV üzerinden Fenerbahçe ve Trabzonspor arasındaki bu heyecan verici maçı canlı ve ücretsiz olarak izleyebilirsiniz. Canlı maç izle ve HD yayın keyfi için hemen tıklayın!</p>
